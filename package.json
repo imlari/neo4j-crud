@@ -1,0 +1,25 @@
+{
+  "name": "neo4j-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imlari/neo4j-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imlari/neo4j-crud/issues"
+  },
+  "homepage": "https://github.com/imlari/neo4j-crud#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "neo4j": "^2.0.0-RC2",
+    "neo4j-driver": "^5.20.0"
+  }
+}
